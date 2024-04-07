@@ -1,6 +1,6 @@
-Project name : Find Your Business Partner 
+Project name : Find Your Business Partner
 
-Project Desrciption : 
+Project Desrciption :
 In this project I we are devlop webapplication for user who want business partner and investor for there business so user will regester here and get funding from business owners and find business partner successfully.
 
 ## project start... to build in mern stack.
@@ -12,3 +12,7 @@ In this project I we are devlop webapplication for user who want business partne
 - lern node.js
 
 two branches one main branch and another one is dev branch.
+
+# Tailwind CSS - css framwork zero time taken and class based css not to write custome css
+
+# daisy ui component i have use here for navebar and other pourpose
